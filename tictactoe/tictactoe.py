@@ -1,5 +1,5 @@
 import sys
-import random
+import random #only for random_bot
 
 #player switcher
 def player_switcher(cp):
